@@ -5,3 +5,17 @@ h1{
 h3{
   color: green;
 }
+div{
+  font: Arial;
+  background-color: teal;
+  width: 300px;
+  height: 100px;
+  padding: 200px;
+}
+table{
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+th,td{
+border: 1px solid black;
+}
